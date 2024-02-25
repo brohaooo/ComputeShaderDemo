@@ -11,4 +11,4 @@ It currently has three example:
 
 All of them are implemented with RDG, which is a powerful and convenient tool in low-level render programming. 
 
-The compute shader related part are implement in C++ in CS_Plugin plugin. And the user-interactions are done in blueprints in the demo level. You can read them for reference and learning.
+The compute shader related parts are implement in C++ in CS_Plugin plugin. And the user-interactions are done in blueprints in the demo level. You can read them for reference and learning.
